@@ -2,11 +2,13 @@
   <img align="left" width="400" height="300" src="./images/coding.gif" />
 </div>
 <h1 align="center"> 👨‍💻 Olá, me chamo Wellyngton Carvalho! <img src="./images/Hi.gif" width="25"></h1>
+<div align="center">
 
 [![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=AC4142)](https://www.microsoft.com/pt-br/windows/windows-11)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
 
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/wellyngton-carvalho-dev/" target="_blank">
     <img align="center" alt="linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png"
@@ -31,9 +33,7 @@
 🔭 Atualmente estou procurando recolocação no mercado de trabalho <br />
 🤍 Apaixonado por tecnologia e programação <br />
 
-&#xa0;
 <hr>
-&#xa0;
 
 <h2 align="center"> Tecnologias </h1>
   <p align="center">
@@ -51,13 +51,9 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
   </p>
 
-  &#xa0;
+   <h2 align="center"> Meu Perfil em números </h2>
 
-  &#xa0;
-
-  <h2 align="center"> Meu Perfil em números </h1>
-
-    <div align="center">
+   <div align="center">
       <a href="https://github.com/wellyngton-dev">
         <img height="150em"
           src="https://github-readme-stats.vercel.app/api?username=wellyngton-dev&hide_border=true&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
@@ -67,4 +63,4 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellyngton-dev&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&show_icons=true">
       </a>
     </div>
-    </div>
+</div>
