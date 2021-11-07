@@ -32,7 +32,7 @@
 
 💻 Estudante de Programação Full Stack com foco em JavaScript <br />
 🚀 Estudando Typescript/ReactJS | Rocketseat <br />
-🔭 Atualmente estou procurando recolocação no mercado de trabalho <br />
+🔭 Procurando recolocação no mercado de trabalho <br />
 🤍 Apaixonado por tecnologia e programação <br />
 
 <hr>
