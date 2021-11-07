@@ -11,22 +11,20 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/wellyngton-carvalho-dev/" target="_blank">
-    <img align="center" alt="linkedin" width="20" src="https://image.flaticon.com/icons/png/512/124/124011.png"
+    <img align="center" alt="linkedin" width="30" src="https://image.flaticon.com/icons/png/512/124/124011.png"
       style="max-width:100%;">
   </a>
-  <span>⠀
-  </span>
+  <span></span>
   <a href="https://www.instagram.com/wellyngton.dev/" target="_blank">
     <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" width='30'
       style="max-width:100%;" />
   </a>
-  <span>⠀
-  </span>
+  <span></span>
   <a href="https://twitter.com/Wellyngton_dev" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width='30'
       style="max-width:100%;" />
   </a>
-  <span>⠀</span>
+  <span></span>
   <a href="https://api.whatsapp.com/send?phone=5516981014850" target="_blank">
     <img align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='30'
       style="max-width:100%;" />
