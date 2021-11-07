@@ -2,6 +2,7 @@
   <img align="left" width="400" height="300" src="./images/coding.gif" />
 </div>
 <h1 align="center"> 👨‍💻 Olá, me chamo Wellyngton Carvalho! <img src="./images/Hi.gif" width="25"></h1>
+
 <div align="center">
 
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=AC4142)](https://www.microsoft.com/pt-br/windows/windows-11)
@@ -9,6 +10,7 @@
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
 
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/wellyngton-carvalho-dev/" target="_blank">
     <img align="center" alt="linkedin" width="30" src="https://image.flaticon.com/icons/png/512/124/124011.png"
@@ -56,7 +58,7 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" title="GitHub">
   </p>
 
-   <h2 align="center"> Meu Perfil em números </h2>
+   <h2 align="center"> Meu perfil em números </h2>
 
    <div align="center">
       <a href="https://github.com/wellyngton-dev">
