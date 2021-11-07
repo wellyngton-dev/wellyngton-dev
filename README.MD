@@ -5,9 +5,11 @@
 <h1 align="center"> 👨‍💻 Olá, me chamo Wellyngton Carvalho! <img src="./images/Hi.gif" width="25"></h1>
 
 <div align="center">
+  
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=AC4142)](https://www.microsoft.com/pt-br/windows/windows-11)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
+
 </div>
 
 <div align="center">
