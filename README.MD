@@ -4,29 +4,31 @@
 <h1 align="center"> 👨‍💻 Olá, me chamo Wellyngton Carvalho! <img src="./images/Hi.gif" width="25"></h1>
 <div align="center">
 
-[![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white&color=AC4142)](https://www.microsoft.com/pt-br/windows/windows-11)
+[![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=AC4142)](https://www.microsoft.com/pt-br/windows/windows-11)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=AC4142)](https://developer.mozilla.org/it/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=AC4142)](https://code.visualstudio.com/)
 
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/wellyngton-carvalho-dev/" target="_blank">
-    <img align="center" alt="linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png"
+    <img align="center" alt="linkedin" width="20" src="https://image.flaticon.com/icons/png/512/124/124011.png"
       style="max-width:100%;">
   </a>
   <span>⠀</span>
   <a href="https://www.instagram.com/wellyngton.dev/" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" width='40'
+    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" width='20'
+      style="max-width:100%;" />
+  </a>
+  <a href="https://twitter.com/Wellyngton_dev" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/png/124/124021.png" width='20'
       style="max-width:100%;" />
   </a>
   <span>⠀</span>
   <a href="https://api.whatsapp.com/send?phone=5516981014850" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='40'
+    <img align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width='20'
       style="max-width:100%;" />
   </a>
 </div>
-
-<hr>
 
 💻 Estudante de Programação Full Stack com foco em JavaScript <br />
 🚀 Estudando Typescript/ReactJS | Rocketseat <br />
