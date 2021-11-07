@@ -14,11 +14,14 @@
     <img align="center" alt="linkedin" width="20" src="https://image.flaticon.com/icons/png/512/124/124011.png"
       style="max-width:100%;">
   </a>
-  <span>⠀</span>
+  <span>⠀
+  </span>
   <a href="https://www.instagram.com/wellyngton.dev/" target="_blank">
     <img align="center" src="https://image.flaticon.com/icons/png/512/174/174855.png" width='30'
       style="max-width:100%;" />
   </a>
+  <span>⠀
+  </span>
   <a href="https://twitter.com/Wellyngton_dev" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width='30'
       style="max-width:100%;" />
@@ -29,6 +32,8 @@
       style="max-width:100%;" />
   </a>
 </div>
+
+<br />
 
 💻 Estudante de Programação Full Stack com foco em JavaScript <br />
 🚀 Estudando Typescript/ReactJS | Rocketseat <br />
